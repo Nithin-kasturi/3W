@@ -9,7 +9,7 @@ const Header = () => (
             <span className="bg-yellow-500 p-1 rounded-full text-white">₹1000</span>
           </div>
         </div>
-        <div className="bg-yellow-400 text-center px-4 py-2 rounded-lg font-bold">
+        <div className="bg-yellow-400 text-center px-4 py-2 rounded-lg font-bold hidden md:block">
           Taskplanet. Get 10 Points on every referral
         </div>
       </div>

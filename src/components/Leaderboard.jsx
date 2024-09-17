@@ -4,7 +4,7 @@ const Leaderboard = () => (
     <img
       src="https://img.freepik.com/free-vector/leaderboard-with-abstract-background_52683-51485.jpg"
       alt="Leaderboard"
-      className="rounded-lg w-1/2 h-1/2 object-cover"
+      className="rounded-lg w-full h-full md:h-1/2 md:w-1/2 object-cover"
     />
     </div>
     
